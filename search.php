@@ -38,7 +38,7 @@
 <body>
 <div class="row">
  <div class="b">
-      <form name="form1" method="post" action="sample1.php">
+      <form name="form1" method="post" action="sample1db.php">
           <h2 style="padding:30px;padding-left:80px;color:white;">SEARCH</h2>
     <label style="color:white;font-size: 20px">BLOOD:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label><input type="text" name="blood" required style="border-radius:12px;height:40px;">
    <br><br> 
